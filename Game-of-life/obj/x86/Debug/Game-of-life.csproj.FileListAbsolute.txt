@@ -1,0 +1,5 @@
+/home/annahri/Projects/Game-of-life/Game-of-life/bin/Debug/Game-of-life.exe
+/home/annahri/Projects/Game-of-life/Game-of-life/bin/Debug/Game-of-life.pdb
+/home/annahri/Projects/Game-of-life/Game-of-life/obj/x86/Debug/Game-of-life.csproj.CoreCompileInputs.cache
+/home/annahri/Projects/Game-of-life/Game-of-life/obj/x86/Debug/Game-of-life.exe
+/home/annahri/Projects/Game-of-life/Game-of-life/obj/x86/Debug/Game-of-life.pdb

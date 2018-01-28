@@ -1,11 +1,10 @@
 ﻿<Properties StartupConfiguration="{12028458-D05C-46D8-926C-7F864D4A8020}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Game-of-life/Main.Code.cs">
     <Files>
-      <File FileName="Game-of-life/Program.cs" Line="9" Column="1" />
-      <File FileName="Game-of-life/Main.cs" Line="25" Column="1" />
-      <File FileName="Game-of-life/Main.Designer.cs" Line="9" Column="1" />
-      <File FileName="Game-of-life/Main.Code.cs" Line="16" Column="22" />
-      <File FileName="Game-of-life/Box.cs" Line="29" Column="18" />
+      <File FileName="Game-of-life/Main.cs" Line="102" Column="1" />
+      <File FileName="Game-of-life/Main.Designer.cs" Line="75" Column="54" />
+      <File FileName="Game-of-life/Main.Code.cs" Line="29" Column="38" />
+      <File FileName="Game-of-life/Box.cs" Line="28" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Game-of-life PreferredExecutionTarget="MonoDevelop.Default" />

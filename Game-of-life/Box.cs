@@ -3,18 +3,18 @@ using System.Drawing;
 
 namespace Gameoflife {
     public class Box {
-        int x;
-        int y;
-        int size;
+        float x;
+        float y;
+        float size;
         bool status;
 
-        public int X { 
+        public float X { 
             get { return x; } 
         }
-        public int Y {
+        public float Y {
             get { return y; } 
         }
-        public int Size {
+        public float Size {
             get { return size; }
         }
         public bool Status { 
@@ -26,8 +26,7 @@ namespace Gameoflife {
             set;
         }
 
-
-        public Box(int x, int y, int size) {
+        public Box(float x, float y, float size) {
             this.x = x;
             this.y = y;
             this.size = size;
